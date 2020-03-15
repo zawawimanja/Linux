@@ -1,0 +1,5 @@
+$ git clone https://github.com/skylot/jadx.git
+$ cd jadx
+$ ./gradlew dist
+
+./build/jadx/bin/jadx-gui
